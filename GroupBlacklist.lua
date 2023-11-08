@@ -91,5 +91,5 @@ Players.PlayerAdded:Connect(function(player: Player)
 
 			player:Kick(KickMessage)
 		end
-	end	
+	end
 end)
